@@ -27,6 +27,11 @@ likes_per_views INT,
 dislikes_per_views INT 
 );
 
+CREATE table youtube_category(
+category_id SMALLINT PRIMARY key,
+category VARCHAR(5000)
+);
+
 
 
 
