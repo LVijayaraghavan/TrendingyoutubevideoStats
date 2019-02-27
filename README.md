@@ -5,8 +5,8 @@ Steps
 
 Prerequisite: Run mongod
 
-1.Run youtube_db.sql- Sqlscript
-2.Run Youtube_Etl.ipynb- Data read cleanse and load
+1.Run Youtube_db.sql- Sqlscript
+2.Run YoutubeEtl.ipynb- Data read cleanse and load
 3 Run visuals.ipynb- Data visualisations
 4 Run python app.py
 5.Then in the browser launch localhost:5000
