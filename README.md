@@ -27,7 +27,7 @@ We combined the data from two sources in pandas using pd.merge . We did transfor
 ### Load 
  We used MySQL to store the Merged data (source combined data) and the Analytics table. We created the table with utf8mb4 encoding to hold the Merged data, so the different encoding for title field could be handled. We also stored the data to Mongo DB as an option of using our information in a Non-Relational database.
 
-![Visualisations](BarChart2.png)
+![Visualisations](BarChart2.png, Engagements per View.png)
 
 ## Steps to Run 
 
