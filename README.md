@@ -17,8 +17,7 @@ We could not conclude a relationship between trending Video views and Video Enga
 ## Steps Involved
 
 ### Extract 
-
-    The data came from two source . A CSV that contained over 40,000 trending videos and a JSON file that has the associated category ID tag for video genre. We had a nested dict and we used json_normalise to get the needed data from the json file. We use panda read_csv to read the CSV file
+The data came from two source . A CSV that contained over 40,000 trending videos and a JSON file that has the associated category ID tag for video genre. We had a nested dict and we used json_normalise to get the needed data from the json file. We use panda read_csv to read the CSV file
 
 ### Transform 
 
